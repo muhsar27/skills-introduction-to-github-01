@@ -1,3 +1,9 @@
-Welcome to my GitHub profile!
-First pull request 
-How do i input a new line?
+# Welcome to my GitHub profile!
+
+  First pull request 
+  
+  
+  proper pull request this time
+
+  Another Redo
+  
